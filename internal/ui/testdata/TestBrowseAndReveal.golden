@@ -1,0 +1,18 @@
+ ◈ vaultui   vault.test  V switch                                                 ● ashank via oidc 
+╭─ Explorer 3 secrets ───────╮╭─ secret / payments / prod / db ────────────────────────────────────╮
+│ ▸ kv-v1/ kv1               ││ db    KV v2   version 3   updated 2d ago   3 keys   1 revealed     │
+│ ▾ secret/ kv2              ││                                                                    │
+│ │ ▸ locked/                ││   KEY           VALUE                                              │
+│ │ ▾ payments/              ││ ────────────────────────────────────────────────────────────────── │
+│ │ │ ▾ prod/                ││   DB_HOST       ••••••••                                           │
+│ │ │ │ ◆ db                 ││ ▌ DB_PASSWORD   pw-prod                                            │
+│ │ │ ▸ staging/             ││   POOL          ••••••••                                           │
+│                            ││                                                                    │
+│                            ││                                                                    │
+│                            ││                                                                    │
+│                            ││                                                                    │
+│                            ││                                                                    │
+│                            ││                                                                    │
+╰────────────────────────────╯╰────────────────────────────────────────────────────────────────────╯
+ NORMAL   secret/payments/prod/db                                                 3 secrets indexed 
+ j/k select  ·  / filter keys  ·  ctrl+p search all  ·  enter inspect value  ·  r reveal  ·  c copy…

@@ -1,0 +1,18 @@
+ ◈ vaultui   vault.test  V switch                                                 ● ashank via oidc 
+╭─ /o 2 matches · n/N · … ───╮╭─ Welcome ──────────────────────────────────────────────────────────╮
+│ ▸ kv-v1/ kv1               ││      █ █ ▄▀█ █ █ █   ▀█▀ █ █ █                                     │
+│ ▾ secret/ kv2              ││      ▀▄▀ █▀█ █▄█ █▄▄  █  █▄█ █                                     │
+│ │ ▸ locked/                ││      read-only explorer for HashiCorp Vault                        │
+│ │ ▾ payments/              ││                                                                    │
+│ │ │ ▸ prod/                ││      ╭────────────────╮ ╭────────────────╮ ╭────────────────╮      │
+│ │ │ ▸ staging/             ││      │  2             │ │  3             │ │  0             │      │
+│                            ││      │  KV mounts     │ │  secrets       │ │  favorites     │      │
+│                            ││      ╰────────────────╯ ╰────────────────╯ ╰────────────────╯      │
+│                            ││                                                                    │
+│                            ││      Quick keys                                                    │
+│                            ││      ctrl+p   search everything    /        find in this pane      │
+│                            ││      enter    open                 tab      switch pane            │
+│                            ││      c        copy value           d        diff                   │
+╰────────────────────────────╯╰────────────────────────────────────────────────────────────────────╯
+ NORMAL   no secret open                                                          3 secrets indexed 
+ j/k move  ·  l/enter open  ·  h collapse  ·  / find in tree  ·  ctrl+p search all  ·  : cmd  ·  f …

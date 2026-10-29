@@ -1,0 +1,18 @@
+ ◈ vaultui   vault.test  V switch                                                 ● ashank via oidc 
+╭─ Explorer 3 secrets ───────╮╭─ kv-v1 / legacy ───────────────────────────────────────────────────╮
+│ ▾ kv-v1/ kv1               ││ legacy    KV v1   1 key                                            │
+│ │ ◆ legacy                 ││                                                                    │
+│ ▸ secret/ kv2              ││   KEY     VALUE                                                    │
+│                            ││ ────────────────────────────────────────────────────────────────── │
+│                            ││ ▌ TOKEN   ••••••••                                                 │
+│                            ││                                                                    │
+│                            ││                                                                    │
+│                            ││                                                                    │
+│                            ││                                                                    │
+│                            ││                                                                    │
+│                            ││                                                                    │
+│                            ││                                                                    │
+│                            ││                                                                    │
+╰────────────────────────────╯╰────────────────────────────────────────────────────────────────────╯
+ NORMAL   kv-v1/legacy   ✗ Version history is not available for KV v1             3 secrets indexed 
+ j/k select  ·  / filter keys  ·  ctrl+p search all  ·  enter inspect value  ·  r reveal  ·  c copy…
